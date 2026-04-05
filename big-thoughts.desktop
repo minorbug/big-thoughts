@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Big Thoughts
+Comment=My private diary
+Exec=python3 /home/felix/big-thoughts.py
+Icon=accessories-text-editor
+Terminal=false
+Categories=Education;
+StartupNotify=false
